@@ -20,3 +20,6 @@ def
 
 (self, parameter_list):
     pass
+
+
+    ¾À½á°¡½ñÌì¸Á
