@@ -4,22 +4,3 @@ def hello_world():
 
 
 ¹ş¹ş¹ş¸Â¹şgh
-
-
-hahajhfak
-
-
-agjaklgjaljhal¡¢
-
-
-ajgkajklgjakgjakhgakh'
-
-
-
-def 
-
-(self, parameter_list):
-    pass
-
-
-    ¾À½á°¡½ñÌì¸Á
